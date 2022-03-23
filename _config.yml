@@ -33,13 +33,13 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
+#defaults:
+#  -
+#    scope:
+#      path: "" # an empty string here means all files in the project
+#      type: "posts"
+#    values:
+#      layout: "post"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
