@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post title"
+title:  "Second Post title"
 date:   2022-03-21 24:00:00 -0400
 categories: jekyll post
 ---
@@ -10,10 +10,6 @@ categories: jekyll post
 ```
 Hello World!
 ```
-
-'''
-Hello World!
-'''
 
 **Strong**
 
