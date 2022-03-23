@@ -33,7 +33,7 @@ github_username:  jekyll
 remote_theme: benbalter/retlab
 
 plugins:
-  - jekyll-remote-theme 
+#  - jekyll-remote-theme 
   - jekyll-feed
   
 #defaults:
